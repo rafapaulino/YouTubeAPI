@@ -2,7 +2,7 @@
 
 ## Example of use
 
-Install: composer require youtube/youtube-subscribers
+Install: composer require rafael.paulino/youtube
 
 ```php
 <?php
